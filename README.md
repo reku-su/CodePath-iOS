@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] User can select tip percentages by using a slider that carries all integer values between 0 - 50.
+- [X] User can select tip percentages by using a slider that carries all values between 0 - 50.
 - [X] Dark mode and light mode
 
 ## Video Walkthrough
